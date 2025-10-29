@@ -1,0 +1,2 @@
+Audio aura of the listner is of active, dancer type of person.
+It's not the best way as it doesn't tell if user actually enjoy listening to them. Better way could have been counting from songs frequently listen by user.
